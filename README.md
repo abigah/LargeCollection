@@ -5,4 +5,4 @@ This little addon adds a paginated view of collections as well as search functio
 
 Modify the collection name in LargeCollection.php
 
-Thanks To James for all his help.
+Thanks To <a href="https://github.com/warkior">James</a> for all his help.
