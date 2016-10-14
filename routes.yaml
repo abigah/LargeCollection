@@ -1,0 +1,9 @@
+routes:
+  /:
+    uses: index
+    as: large_collection
+
+  results: results
+
+  post@results: results
+
